@@ -1,0 +1,27 @@
+{
+  "name": "url-hash",
+  "version": "1.0.0",
+  "description": "Utility to easily generate hashes from URL's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pmoelgaard/url-hash"
+  },
+  "keywords": [
+    "url",
+    "hash",
+    "crypto"
+  ],
+  "author": "Peter Andreas Moelgaard <admin@petermolgard.com> (http://petermolgaard.com/)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/pmoelgaard/url-hash/issues"
+  },
+  "homepage": "https://github.com/pmoelgaard/url-hash",
+  "dependencies": {
+    "extend": "^2.0.0"
+  }
+}
