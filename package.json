@@ -1,5 +1,5 @@
 {
-  "name": "url-hash",
+  "name": "nx-url-hash",
   "version": "1.0.0",
   "description": "Utility to easily generate hashes from URL's",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pmoelgaard/url-hash"
+    "url": "https://github.com/pmoelgaard/nx-url-hash"
   },
   "keywords": [
     "url",
@@ -18,9 +18,9 @@
   "author": "Peter Andreas Moelgaard <admin@petermolgard.com> (http://petermolgaard.com/)",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/pmoelgaard/url-hash/issues"
+    "url": "https://github.com/pmoelgaard/nx-url-hash/issues"
   },
-  "homepage": "https://github.com/pmoelgaard/url-hash",
+  "homepage": "https://github.com/pmoelgaard/nx-url-hash",
   "dependencies": {
     "extend": "^2.0.0"
   }
