@@ -1,4 +1,4 @@
-extend = require('extend')
+extend = require('deep-extend')
 crypto = require('crypto')
 
 class URLHash
