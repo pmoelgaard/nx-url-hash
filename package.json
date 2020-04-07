@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/pmoelgaard/nx-url-hash",
   "dependencies": {
-    "deep-extend": "^0.3.2"
+    "deep-extend": "~> 0.5.1"
   }
 }
